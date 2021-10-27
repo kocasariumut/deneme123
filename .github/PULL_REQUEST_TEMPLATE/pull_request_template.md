@@ -1,10 +1,3 @@
----
-name: 'Pull Request'
-about: 'Use this template to open pull requests'
-title: '[PULL REQUEST]'
-labels: ''
-assignees: ''
----
 
 
 ### Subject of the issue
