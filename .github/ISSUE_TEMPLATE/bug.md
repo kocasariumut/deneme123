@@ -7,19 +7,33 @@ assignees: ''
 ---
 
 
-### Subject of the issue
-Describe your issue here.
+What are the steps to reproduce this issue?
+-------------------------------------------
+1. …
+2. …
+3. …
 
-### Your environment
-* version of angular-translate
-* version of angular
-* which browser and its version
+What happens?
+-------------
+…
 
-### Steps to reproduce
-Tell us how to reproduce this issue. Please provide a working demo, you can use [this template](https://plnkr.co/edit/XorWgI?p=preview) as a base.
+What were you expecting to happen?
+----------------------------------
+…
 
-### Expected behaviour
-Tell us what should happen
+Any logs, error output, etc?
+----------------------------
+<!-- If it’s long, please paste to https://gist.github.com/ and insert the link here. -->
 
-### Actual behaviour
-Tell us what happens instead
+
+Any other comments?
+-------------------
+…
+
+What versions of software are you using?
+----------------------------------------
+**Operating System:** …
+
+**Toolchain Version:** …
+
+**SDK Version:** …
