@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 
-What is the problem behind the wiki update?
+Why is this wiki update necessary, what is the problem?
 --------------------------------------
 <!--
   Provide a clear and concise description of what the problem is.

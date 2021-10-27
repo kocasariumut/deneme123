@@ -1,18 +1,33 @@
+Proposed changes
+----------------
+<!--
+Describe the big picture of your changes here to communicate to the maintainers why we should accept this pull request. If it fixes a bug or resolves a feature request, be sure to link to that issue.
+-->
+(Write your answer here.)
 
+Types of changes
+----------------
 
-### Subject of the issue
-Describe your issue here.
+What types of changes does your code introduce?
+_Put an `x` in the boxes that apply_
 
-### Your environment
-* version of angular-translate
-* version of angular
-* which browser and its version
+- [ ] Bugfix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] Documentation Update (if none of the other choices apply)
 
-### Steps to reproduce
-Tell us how to reproduce this issue. Please provide a working demo, you can use [this template](https://plnkr.co/edit/XorWgI?p=preview) as a base.
+Checklist
+---------
 
-### Expected behaviour
-Tell us what should happen
+_Put an `x` in the boxes that apply. You can also fill these out after creating the PR. If you're unsure about any of them, don't hesitate to ask. We're here to help! This is simply a reminder of what we are going to look for before merging your code._
 
-### Actual behaviour
-Tell us what happens instead
+- [ ] Unit tests pass locally with my changes
+- [ ] I have added tests that prove my fix is effective or that my feature works
+- [ ] I have added necessary documentation (if appropriate)
+- [ ] Any dependent changes have been merged and published in downstream modules
+
+## Further comments
+<!--
+If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc...
+-->
+(Write your answer here.)
