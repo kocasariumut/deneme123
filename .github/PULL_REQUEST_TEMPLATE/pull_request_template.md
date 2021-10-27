@@ -1,8 +1,8 @@
 ---
-name: 'Feature'
-about: 'Use this template to open issues for new features'
-title: '[FEATURE NAME]'
-labels: 'Type: Enhancement'
+name: 'Pull Request'
+about: 'Use this template to open pull requests'
+title: '[PULL REQUEST]'
+labels: ''
 assignees: ''
 ---
 

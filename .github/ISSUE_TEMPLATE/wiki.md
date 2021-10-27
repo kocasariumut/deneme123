@@ -1,8 +1,8 @@
 ---
-name: 'Feature'
-about: 'Use this template to open issues for new features'
-title: '[FEATURE NAME]'
-labels: 'Type: Enhancement'
+name: 'Wiki'
+about: 'Use this template to open issues for wiki updates'
+title: '[WIKI UPDATE]'
+labels: 'Type: Wiki'
 assignees: ''
 ---
 

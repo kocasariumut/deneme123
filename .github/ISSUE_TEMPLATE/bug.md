@@ -1,8 +1,8 @@
 ---
-name: 'Feature'
-about: 'Use this template to open issues for new features'
-title: '[FEATURE NAME]'
-labels: 'Type: Enhancement'
+name: 'Bug'
+about: 'Use this template to open issues for new bugs'
+title: '[BUG]'
+labels: 'Type: Bug'
 assignees: ''
 ---
 
