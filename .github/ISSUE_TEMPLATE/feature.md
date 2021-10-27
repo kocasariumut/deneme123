@@ -6,20 +6,39 @@ labels: 'Type: Enhancement'
 assignees: ''
 ---
 
+Is your proposal related to a problem?
+--------------------------------------
+<!--
+  Provide a clear and concise description of what the problem is.
+  For example, "I'm always frustrated when..."
+-->
 
-### Subject of the issue
-Describe your issue here.
+(Write your answer here.)
 
-### Your environment
-* version of angular-translate
-* version of angular
-* which browser and its version
+Describe the solution you'd like
+--------------------------------
 
-### Steps to reproduce
-Tell us how to reproduce this issue. Please provide a working demo, you can use [this template](https://plnkr.co/edit/XorWgI?p=preview) as a base.
+<!--
+  Provide a clear and concise description of what you want to happen.
+-->
 
-### Expected behaviour
-Tell us what should happen
+(Describe your proposed solution here.)
 
-### Actual behaviour
-Tell us what happens instead
+Describe alternatives you've considered
+---------------------------------------
+
+<!--
+  Let us know about other solutions you've tried or researched.
+-->
+
+(Write your answer here.)
+
+Additional context
+------------------
+
+<!--
+  Is there anything else you can add about the proposal?
+  You might want to link to related issues here, if you haven't already.
+-->
+
+(Write your answer here.)
