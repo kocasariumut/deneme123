@@ -7,19 +7,31 @@ assignees: ''
 ---
 
 
-### Subject of the issue
-Describe your issue here.
+What is the problem behind the wiki update?
+--------------------------------------
+<!--
+  Provide a clear and concise description of what the problem is.
+  For example, "I'm always frustrated when..."
+-->
 
-### Your environment
-* version of angular-translate
-* version of angular
-* which browser and its version
+(Write your answer here.)
 
-### Steps to reproduce
-Tell us how to reproduce this issue. Please provide a working demo, you can use [this template](https://plnkr.co/edit/XorWgI?p=preview) as a base.
+Describe the solution you'd like
+--------------------------------
 
-### Expected behaviour
-Tell us what should happen
+<!--
+  Provide a clear and concise description of what you want to happen.
+-->
 
-### Actual behaviour
-Tell us what happens instead
+(Describe your proposed solution here.)
+
+Additional context and references
+---------------------------------
+
+<!--
+  Is there anything else you can add about the proposal?
+  You might want to link to related issues here, if you haven't already.
+  Also, you can give reference to wiki page link you want to change.
+-->
+
+(Write your answer here.)
