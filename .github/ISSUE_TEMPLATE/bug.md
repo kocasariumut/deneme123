@@ -2,7 +2,7 @@
 name: 'Bug'
 about: 'Use this template to open issues for new bugs'
 title: '[BUG]'
-labels: 'Type: Bug'
+labels: 'Type: Bug, Status: To Do'
 assignees: ''
 ---
 

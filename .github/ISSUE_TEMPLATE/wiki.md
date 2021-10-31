@@ -2,7 +2,7 @@
 name: 'Wiki'
 about: 'Use this template to open issues for wiki updates'
 title: '[WIKI UPDATE]'
-labels: 'Type: Wiki'
+labels: 'Type: Wiki, Status: To Do'
 assignees: ''
 ---
 

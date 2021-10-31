@@ -2,7 +2,7 @@
 name: 'Feature'
 about: 'Use this template to open issues for new features'
 title: '[FEATURE NAME]'
-labels: 'Type: Enhancement'
+labels: 'Type: Enhancement, Status: To Do'
 assignees: ''
 ---
 
